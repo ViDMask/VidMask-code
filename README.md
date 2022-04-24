@@ -1,5 +1,3 @@
-# VidMask-code
-
 # Welcome to the VidMask-code wiki!
 
 # Vidmask - Large dataset for Facemask detection.
